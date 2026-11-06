@@ -1,0 +1,4 @@
+window.APP_CONFIG = {
+  supabaseUrl: "https://gignblrgjprlshvzbvyo.supabase.co",
+  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdpZ25ibHJnanBybHNodnpidnlvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM5Nzg2ODksImV4cCI6MjEwOTU1NDY4OX0.vIJatzmTTAkEinwewu6pu3gWIU4OkXQR8J-m93pBE78"
+};

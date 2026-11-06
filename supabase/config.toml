@@ -1,0 +1,4 @@
+project_id = "team-task-cms"
+
+[functions.send-notification]
+verify_jwt = true
